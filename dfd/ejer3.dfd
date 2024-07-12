@@ -1,0 +1,59 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+55
+"Ingrese un número entero para el conteo de las cifras"
+5
+1
+1
+n
+7
+0
+1
+8
+n>=10000
+7
+0
+1
+4
+n<10
+7
+0
+1
+5
+n<100
+7
+0
+1
+6
+n<1000
+13
+4
+1
+41
+"El número"," ",n," ","tiene tres cifras"
+13
+13
+4
+1
+40
+"El número"," ",n," ","tiene dos cifras"
+13
+13
+4
+1
+39
+"El número"," ",n," ","tiene una cifra"
+13
+13
+4
+1
+43
+"El número"," ",n," ","tiene cuatro cifras"
+13
+1

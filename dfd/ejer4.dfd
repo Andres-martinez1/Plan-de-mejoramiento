@@ -1,0 +1,81 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+23
+"nombre del postulante"
+5
+1
+3
+nom
+4
+1
+63
+" Ingrese la cantidad total de preguntas que se le realizaron "
+5
+1
+2
+to
+4
+1
+61
+"Ingrese la cantidad de preguntas que contestó correctamente"
+5
+1
+4
+cant
+6
+1
+6
+porcen
+10
+cant *  to
+7
+0
+1
+12
+porcen>= 90 
+7
+0
+1
+25
+porcen>= 75 and porcen<90
+7
+0
+1
+26
+porcen >= 50 and porcen<75
+7
+0
+1
+9
+porcen<50
+13
+4
+1
+89
+"El postulante:"," ",nom," ","se encuentra fuera del nivel con un porcentaje menor a 50%"
+13
+13
+4
+1
+113
+"El postulante:"," ",nom," ","se encuentra en un nivel regular con un porcentaje mayor o igual 50% y menor a 75%"
+13
+13
+4
+1
+111
+"El postulante:"," ",nom," ","se encuentra en un nivel medio con un porcentaje mayor o igual 75% y menor a 90%"
+13
+13
+4
+1
+103
+"El postulante:"," ",nom," ","se encuentra en un nivel superior con un porcentaje mayor o igual al 90%"
+13
+1

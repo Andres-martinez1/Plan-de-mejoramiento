@@ -1,0 +1,57 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+"Ingrese su edad: "
+5
+1
+4
+edad
+4
+1
+168
+"Digite el número segun su genero:                                      {1} Femenino                                                                      {2} Masculino"
+5
+1
+6
+genero
+7
+0
+1
+8
+genero=1
+7
+0
+1
+8
+genero=2
+4
+1
+25
+"Digite un numero valido"
+13
+6
+1
+5
+pulsa
+13
+(210-edad)/10
+13
+13
+6
+1
+5
+pulsa
+13
+(220-edad)/10
+13
+4
+1
+58
+"El número de pulsaciones de acuerdo a su edad son:",pulsa
+1

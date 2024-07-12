@@ -1,0 +1,295 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+33
+"Ingrese el nivel de hemoglobina"
+5
+1
+11
+hemoglobina
+4
+1
+17
+"Ingrese su edad"
+5
+1
+4
+edad
+4
+1
+38
+"Ingrese el sexo femenino o masculino"
+5
+1
+6
+genero
+7
+0
+1
+21
+edad >0 and edad <=1 
+7
+0
+1
+21
+edad >1 and edad <=6 
+7
+0
+1
+22
+edad >6 and edad <=12 
+7
+0
+1
+21
+edad >1 and edad <=5 
+7
+0
+1
+24
+edad > 5 and edad <= 10 
+7
+0
+1
+23
+edad >10 and edad <=15 
+7
+0
+1
+35
+edad > 15  and genero = "femenino" 
+7
+0
+1
+35
+edad > 15 and genero = "masculino" 
+13
+7
+0
+1
+16
+hemoglobina < 14
+7
+0
+1
+16
+hemoglobina > 18
+4
+1
+53
+"Estas en el rango establecido te encuentras estable"
+13
+4
+1
+56
+"Tu resultado es negativo por lo tanto no tienes anemia"
+13
+13
+4
+1
+40
+"Tu resultado es positivo tienes anemia"
+13
+13
+13
+7
+0
+1
+16
+hemoglobina < 12
+7
+0
+1
+16
+hemoglobina > 16
+4
+1
+53
+"Estas en el rango establecido te encuentras estable"
+13
+4
+1
+56
+"Tu resultado es negativo por lo tanto no tienes anemia"
+13
+13
+4
+1
+40
+"Tu resultado es positivo tienes anemia"
+13
+13
+13
+7
+0
+1
+16
+hemoglobina < 13
+7
+0
+1
+18
+hemoglobina > 15.5
+4
+1
+53
+"Estas en el rango establecido te encuentras estable"
+13
+4
+1
+56
+"Tu resultado es negativo por lo tanto no tienes anemia"
+13
+13
+4
+1
+40
+"Tu resultado es positivo tienes anemia"
+13
+13
+13
+7
+0
+1
+18
+hemoglobina < 12.6
+7
+0
+1
+18
+hemoglobina > 15.5
+4
+1
+53
+"Estas en el rango establecido te encuentras estable"
+13
+4
+1
+56
+"Tu resultado es negativo por lo tanto no tienes anemia"
+13
+13
+4
+1
+40
+"Tu resultado es positivo tienes anemia"
+13
+13
+13
+7
+0
+1
+18
+hemoglobina < 11.5
+7
+0
+1
+16
+hemoglobina > 15
+4
+1
+53
+"Estas en el rango establecido te encuentras estable"
+13
+4
+1
+56
+"Tu resultado es negativo por lo tanto no tienes anemia"
+13
+13
+4
+1
+40
+"Tu resultado es positivo tienes anemia"
+13
+13
+13
+7
+0
+1
+16
+hemoglobina < 11
+7
+0
+1
+16
+hemoglobina > 15
+4
+1
+53
+"Estas en el rango establecido te encuentras estable"
+13
+4
+1
+56
+"Tu resultado es negativo por lo tanto no tienes anemia"
+13
+13
+4
+1
+40
+"Tu resultado es positivo tienes anemia"
+13
+13
+13
+7
+0
+1
+16
+hemoglobina < 10
+7
+0
+1
+16
+hemoglobina > 18
+4
+1
+53
+"Estas en el rango establecido te encuentras estable"
+13
+4
+1
+56
+"Tu resultado es negativo por lo tanto no tienes anemia"
+13
+13
+4
+1
+40
+"Tu resultado es positivo tienes anemia"
+13
+13
+13
+7
+0
+1
+16
+hemoglobina < 13
+7
+0
+1
+16
+hemoglobina > 26
+4
+1
+53
+"Estas en el rango establecido te encuentras estable"
+13
+4
+1
+56
+"Tu resultado es negativo por lo tanto no tienes anemia"
+13
+13
+4
+1
+40
+"Tu resultado es positivo tienes anemia"
+13
+13
+1

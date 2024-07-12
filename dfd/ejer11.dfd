@@ -1,0 +1,65 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+24
+'Digite el  monto total'
+5
+1
+5
+total
+4
+1
+20
+'Digite la hipoteca'
+5
+1
+8
+hipoteca
+7
+0
+1
+18
+hipoteca < 1000000
+7
+0
+1
+17
+hipoteca  < total
+4
+1
+26
+'Se recomienda reinvertir'
+13
+6
+1
+5
+inver
+20
+(total - hipoteca)/2
+4
+1
+51
+'La inversion total de la hipoteca es de ',hipoteca
+4
+1
+59
+'La inversion que le corresponde a cada socio es de ',inver
+13
+13
+6
+1
+5
+inver
+12
+total * 0.50
+4
+1
+47
+'La inversion del 50% cada socio es de ', inver
+13
+1
