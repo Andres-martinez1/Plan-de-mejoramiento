@@ -1,0 +1,58 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+26
+"ingrese un primer número"
+5
+1
+2
+n1
+4
+1
+28
+"ingreese un segundo número"
+5
+1
+2
+n2
+7
+0
+1
+5
+n1>n2
+6
+2
+3
+div
+7
+n1 / n2
+3
+pro
+7
+n1 * n2
+4
+1
+89
+"El resultado de la division es :"," ",div," ","y el resultado del producto es: "," ",pro
+13
+6
+2
+4
+suma
+7
+n1 + n2
+3
+dif
+7
+n1 - n2
+4
+1
+74
+"El resultado de la suma es :"," ",suma," ","y la diferencia es: "," ",dif
+13
+1

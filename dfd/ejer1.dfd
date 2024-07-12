@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+2
+pi
+6
+3.1416
+4
+1
+21
+"Introduzca el radio"
+5
+1
+5
+radio
+6
+3
+4
+peri
+14
+2 * pi * radio
+4
+area
+13
+pi * radio* 2
+3
+vol
+17
+(4*pi*radio*3 /3)
+4
+1
+132
+"El perímetro de la circunferencia es :"," ",peri," ","el área del círculo es :"," ",area," ","el volumen de la esfera es: "," ",vol
+1
